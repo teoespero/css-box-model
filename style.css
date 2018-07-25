@@ -1,0 +1,35 @@
+/*	
+	Teodulfo Espero
+	BS Cloud and Systems Administration
+	Western Governors University
+*/
+
+
+body{
+	font-size: 14px;
+}
+
+p {
+	/* Content */
+	font-family: 'Raleway', sans-serif;
+	line-height: 1.5;
+	width: 50%;
+	
+	/* Border */
+	border: 2px solid blue;
+
+
+	/* Margin */
+
+	/**/
+}
+
+h1 {
+    font-family: 'Open Sans', sans-serif;
+	font-size: 
+}
+
+span{
+	font-size: 2.0em;
+}
+
