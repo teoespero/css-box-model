@@ -4,15 +4,24 @@
 	Western Governors University
 */
 
+/* content */
+div {
+	float: left;
+}
+
+img {
+	width: 30%;
+	float: left;
+	margin: 1.66%;
+}
 
 body{
 	font-size: 14px;
-	margin: 30px 30px 30px 30px;
 }
 
 p {
 	/* Content */
-	font-family: 'Raleway', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	line-height: 1.5;
 	width: 50%;
 	
@@ -46,9 +55,23 @@ td{
 }
 
 h1 {
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Raleway', sans-serif;
+    font-weight: bolder;
+	font-size: 23px;
+    margin: 1.66%;
+    text-transform: uppercase;
+    border-bottom: 3px solid red;
 }
 
+h3 {
+    font-family: 'Raleway', sans-serif;
+    font-weight: bolder;
+	font-size: 10px;
+    margin: 1.66%;
+    border-top: 3px solid red;
+}
 span{
 	font-size: 2.0em;
 }
+
+
