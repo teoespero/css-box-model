@@ -7,6 +7,7 @@
 
 body{
 	font-size: 14px;
+	margin: 30px 30px 30px 30px;
 }
 
 p {
@@ -18,15 +19,34 @@ p {
 	/* Border */
 	border: 2px solid blue;
 
+	/* Padding */
+	padding: 10px;
 
 	/* Margin */
+	margin: 20px 20px 20px 20px; 
 
 	/**/
 }
 
+
+td{
+	width: 100px;
+	height: 100px;
+	background: #e6e6ff;
+	vertical-align: center;
+	text-align: center;
+}
+
+.dot {
+  height: 80%;
+  width: 80%;
+  background-color: #bbb;
+  border-radius: 100%;
+  display: inline-block;
+}
+
 h1 {
     font-family: 'Open Sans', sans-serif;
-	font-size: 
 }
 
 span{
