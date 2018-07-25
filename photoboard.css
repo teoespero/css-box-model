@@ -62,14 +62,6 @@ h1 {
     text-transform: uppercase;
     border-bottom: 3px solid red;
 }
-
-h3 {
-    font-family: 'Raleway', sans-serif;
-    font-weight: bolder;
-	font-size: 10px;
-    margin: 1.66%;
-    border-top: 3px solid red;
-}
 span{
 	font-size: 2.0em;
 }

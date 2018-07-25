@@ -1,0 +1,56 @@
+body {
+	border: 20px solid #ccddff;
+	padding: 20px;
+	max-width: 700px;
+	width: 70%;
+	margin: 20px auto;
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+h1 {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 2.0rem;
+	color: #0066cc;
+}
+
+h2 {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 1.6rem;
+	color: #0066cc;
+	padding: 5px;
+}
+
+
+.quote {
+	border-left: 5px solid #bdc3c7;
+	padding-left: 10px;
+}
+
+.date {
+	text-transform: uppercase;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: lighter;
+	color: #6699ff;
+	letter-spacing: 0.2rem;
+	margin: 5px;
+}
+
+/* hr{ 
+ 	border: 0; 
+ 	height: 0; 
+ 	border-top: 
+ 	1px solid rgba(0, 0, 0, 0.1); 
+ 	border-bottom: 1px solid rgb(179, 204, 255, 0.3); 
+ }*/
+
+hr {
+    border: 0;
+    height: 2px;
+    background-image: linear-gradient(to right, rgb(179, 204, 255, 0), 
+    	rgb(179, 204, 255, 0.75), 
+    	rgb(179, 204, 255, 0));
+}
+
+.post {
+	margin-bottom: 20px;
+}
